@@ -1,0 +1,11 @@
+{
+  "name": "my-npm-package",
+  "version": "1.0.0",
+  "description": "Paczka zajecia",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes"
+  },
+  "author": "Bartosz Konkel",
+  "license": "ISC"
+}
