@@ -4,12 +4,12 @@
   "description": "Paczka zajecia",
   "main": "index.js",
   "scripts": {
-    "test": "tes"
+    "test": "tes",
+    "start": "parcel src/index.html --open"
   },
   "author": "Bartosz Konkel",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.8.1"
-  },
-  "start": "parcel src/index.html --open" 
+  }
 }
