@@ -7,5 +7,9 @@
     "test": "tes"
   },
   "author": "Bartosz Konkel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  },
+  "start": "parcel src/index.html --open" 
 }
